@@ -1,8 +1,6 @@
 
 
 
-
-
 <div align="center">
   <img src="https://github.com/amantyagi27/amantyagi27/blob/main/img/hello.gif" width="30px"/>
 <h1 align="center">
